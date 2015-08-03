@@ -4,7 +4,11 @@ A [dockerized](http://docker.com) [Node](http://nodejs.org) server for serving [
 
 Uses [node-ember-cli-deploy-redis](https://github.com/blimmer/node-ember-cli-deploy-redis).
 
-## Usage
+## Docker repo
+
+[Docker hub](https://registry.hub.docker.com/u/thomassnielsen/ember-express-redis/)
+
+## Build yourself
 
 Build:
 
